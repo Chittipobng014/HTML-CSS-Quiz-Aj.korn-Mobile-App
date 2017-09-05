@@ -1,7 +1,7 @@
 body {
     padding: 30px 100px;
     font-family: 'Prompt', sans-serif;
-    background-color: lightskyblue;
+    background-color: rgba(50, 115, 220, 0.3);
 }
 
 .img-circle {
@@ -16,6 +16,7 @@ body {
 }
 
 .profile-pic {
+    
     margin: auto;
     text-align: center;
 }
@@ -44,3 +45,4 @@ body {
 .fa {
     margin: 10px;
 }
+
